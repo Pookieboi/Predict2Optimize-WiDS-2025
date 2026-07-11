@@ -211,3 +211,5 @@ __marimo__/
 .venv/*
 .vscode/**/*
 .vscode/*
+data/**/*
+data/*
